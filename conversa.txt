@@ -1,0 +1,20 @@
+Ola
+Ola, tudo bem? Seja bem vindo ao restaurante Jequiti
+Queria fazer uma reserva
+Ok, temos o hoario de segunda à sabado  das 14h às 22h, qual você deseja?
+Segunda-feira, 18h.
+Tudo bem, sua reserva será feita.
+Queria mudar a data da minha reserva
+Sim, para qual dia você deseja fazer essa mudança?
+Queria sabado para 17h, por favor.
+Em que horario vocês funcionam?
+Ficamos aberto das 14h às 22h de segunda à sabado.
+Vocês poderiam me enviar o cardápio?
+Sim, aqui está: http://bit.ly/cardapioilustrativo
+
+
+
+
+
+
+
